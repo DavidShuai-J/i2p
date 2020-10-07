@@ -13,7 +13,12 @@ Background: ./img/CASA_Logo_no_text.png
 
 ^ This presentation contains key contact and delivery information about the module.
 
+see the intro of staff behind
 
+#Look now
+##look more
+**let's see**
+![see](./img/Jon.jpg) 
 ---
 ## Key Contacts (Staff)
 
